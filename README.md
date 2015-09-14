@@ -1,6 +1,6 @@
 # <div align="center"> Modern Art
 
-![](art4.png)
+<div align="center"> ![](art4.png)
 
 
 ## <div align="center"> Instructions
