@@ -1,9 +1,9 @@
-# <div align="center"> Modern Art
+# <div align="center"> Modern Art </div>
 
-<div align="center"> ![](art4.png)
+<div align="center"> ![](art4.png) </div>
 
 
-## <div align="center"> Instructions <div align="center">
+## <div align="center"> Instructions </div>
 
 
 
