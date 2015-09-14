@@ -1,4 +1,8 @@
 # <div align="center"> Modern Art
+
+![](art4.png)
+
+
 ## <div align="center"> Instructions
 * To properly run the program, make sure the contents of requirements.txt has been installed in the folder the program will be running from.
     * Enter 'pip install -r requirements.txt' to downloaded the the contents of requirements.txt.
