@@ -2,7 +2,7 @@
 
 ## <div align="center">![](art4.png)</div>
 
-This image was created using Python's random module and math functions.
+The above image was created using Python's random module and math functions.
 
 ## <div align="center">Instructions</div>
 
